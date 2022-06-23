@@ -2,6 +2,7 @@
 
 /* javascript possui tipagem  dinamica, isso significa que os valores das variavéis podem ser modificadas diversas vezes */ 
 // utilizar o typeof dentro do console para verificar o tipo da variavel
+
 /* Objetos */ 
 
  let pessoa = {
