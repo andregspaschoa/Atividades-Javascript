@@ -22,4 +22,12 @@ console.log(valorIngressoAdulto)
 
 /* Conforme as boas praticas é preferivel utilizar a variavel const quando o valor for fixo */ 
 
+/* Tipos primitivos */ 
+
+let nome = 'Andre' //string literal
+let idade = 26; //number literal
+let estaAprovado = true; //boolean
+let sobrenome ; //Undefined
+let corSelecionado = null //Redefinir um valor
+ 
 
