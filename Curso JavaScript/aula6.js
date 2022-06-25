@@ -1,6 +1,8 @@
 /* Operadores */
 // Aritimeticos, atribuição, comparação, logicos e Bitwise //
 /* Aritiméticos */ /* +, -, *, /, */
+console.log('Aula 6')
+console.log(' ')
 
 let salario = 100;
 
@@ -85,4 +87,6 @@ let corPadrao= 'Azul';
 let corPerfil = corPersonalizada || corPadrao;
 
 console.log(corPerfil);
+console.log(' ')
+console.log('Fim!')
 
