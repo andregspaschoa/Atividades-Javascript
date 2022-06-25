@@ -1,5 +1,7 @@
 // Functions 
-
+console.log(' ')
+console.log('Aula 5')
+console.log(' ')
 // verbo + substantivo
 let corSite = "azul";
 function resetaCor (cor,tonalidade) {
