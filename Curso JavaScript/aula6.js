@@ -35,4 +35,11 @@ console.log('1' === 1);
 console.log ( 1 == 1);
 console.log ('1' == 1);
 
-/* essa forma não é a mais correta de se comparar */ 
+/* essa forma acima não é a mais correta de se comparar */ 
+
+/* Operador Ternário */ 
+
+let pontos = 100; 
+let tipo = pontos > 100 ? 'premium' : 'comum';
+console.log(tipo);
+
