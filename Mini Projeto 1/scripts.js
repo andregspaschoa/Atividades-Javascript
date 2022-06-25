@@ -20,3 +20,5 @@ b = c;
 
 console.log('Variável a =',a);
 console.log('Variável b =',b);
+console.log('')
+console.log('Fim!');
