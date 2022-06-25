@@ -43,3 +43,46 @@ let pontos = 100;
 let tipo = pontos > 100 ? 'premium' : 'comum';
 console.log(tipo);
 
+/* Operadores lógicos */ 
+
+// Operador Lógico e (&&)
+// Retorna True se os dois operandos forem true
+
+console.log(true && false); 
+let maiorDeIdade = false;
+let possuiCarteiraDeTrabalho = false;
+let podeAplicar = maiorDeIdade && possuiCarteiraDeTrabalho;
+
+console.log(podeAplicar);
+
+// Operador Lógico ou (||)
+
+podeAplicar = maiorDeIdade || possuiCarteiraDeTrabalho;
+console.log('pode aplicar: ', podeAplicar);
+
+//Operador NOT (!) 
+
+let candidatoRecusado = !podeAplicar;
+
+console.log('Candidato Recusado ', candidatoRecusado)
+
+
+/* Comparações não Boolean */
+
+// Falsy 
+//undefined
+//null
+// 0 
+// false
+//''
+// Nan - not a number 
+
+//truthy
+// exemplo false || true
+
+let corPersonalizada = '' ;
+let corPadrao= 'Azul';
+let corPerfil = corPersonalizada || corPadrao;
+
+console.log(corPerfil);
+
