@@ -1,3 +1,5 @@
+console.log('Aula 3')
+console.log(' ')
 /* Tipagem Dinamica */
 
 /* javascript possui tipagem  dinamica, isso significa que os valores das variavéis podem ser modificadas diversas vezes */ 
