@@ -31,6 +31,7 @@ do {
     console.log('digitando!',i);
     i++;
 } while (i < 10)
+
 console.log('')
 console.log('Loop For in')
 console.log('')
