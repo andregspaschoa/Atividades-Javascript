@@ -6,7 +6,7 @@ const serie = {
     ano : 2013,
     temporadas : 6,
     produtores : 'Katie Swinden',
-    protagonista : 'Tommy Shelby',  //
+    protagonista : 'Tommy Shelby',  
 }
 exibirPropriedades(serie);
 function exibirPropriedades(obj) {
