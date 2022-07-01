@@ -1,6 +1,6 @@
 // Criar função para mostrar os números primos
 
-exibirNumerosPrimos(15);
+exibirNumerosPrimos(513);
 
 function exibirNumerosPrimos(limite) {
     for(let numero = 2; numero <= limite; numero++){
