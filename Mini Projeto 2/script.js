@@ -1,4 +1,4 @@
-let valorMaior = max(499,49);
+let valorMaior = max(4,49);
 console.log(valorMaior);
 
 function max(numero1,numero2) {
