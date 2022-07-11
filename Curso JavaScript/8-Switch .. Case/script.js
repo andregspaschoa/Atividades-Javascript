@@ -1,7 +1,7 @@
 console.log('Switch .. Case')
 console.log('')
 
-let permissão; // comun, gerente, diretor
+let permissao; // comum, gerente, diretor
 
 permissao = 'diretor'
 
